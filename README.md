@@ -35,4 +35,4 @@ Author: Aijamal Jusupova (GitHub Profile)
 ## License
 
 This project is licensed under the MIT License.
-## Sample screenshot:
+## Sample screenshots:
