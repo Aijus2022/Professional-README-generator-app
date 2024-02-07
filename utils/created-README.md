@@ -27,7 +27,7 @@
 
 ## Visuals:
 
-![]("C:\Users\vivaa\OneDrive\Pictures\Readmi.md-Screenshot .png")
+![](https://github.com/Aijus2022/Professional-README-generator-app/blob/ad18ab2ff908d68a5ac118a46c799400645897b6/screenshots/Readmi.md-Screenshot%20.png)
 !![]("C:\Users\vivaa\OneDrive\Pictures\Screenshots\Screenshot 2024-02-06 234800.png")
 
 ## Installation:
