@@ -36,7 +36,7 @@ Author: Aijamal Jusupova (GitHub Profile)
 
 This project is licensed under the MIT License.
 ## Sample screenshots:
-![Screenshot 1](screenshots\Readmi.md-Screenshot .png)
+![Screenshot 1](https://github.com/Aijus2022/Professional-README-generator-app/blob/f51c4b1f1ef07840c6de1137ae7723cf9e9f26ef/screenshots/Screenshot%202024-02-06%20234731.png)
 ![Screenshot 2](screenshots\Screenshot_2024-02-06_234731.png)
 
 
