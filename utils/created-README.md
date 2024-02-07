@@ -1,10 +1,10 @@
-# readmi-app
+# -README-generator-app
 
-  command-line-application
+  The Professional README Generator App is a command-line application that enables users to dynamically generate a professional README for a GitHub project. 
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  [A deployed version can be viewed here.](testsite@test.com)
+  [A deployed version can be viewed here.](https://aijus2022.github.io/Professional-README-generator-app/)
   
 ---
 ## Contents
@@ -23,31 +23,20 @@
 ---
 ## About
 
-  creates readmi
+  README-generator-app simplifies the process of creating a README, ensuring it contains essential information about the project.
 
----
-
-## User Story
-  
-
----
-
-## Acceptance Criteria
-  
-  
----
 ## Visuals:
 
-  ![]()
-
----
+![]("C:\Users\vivaa\OneDrive\Pictures\Readmi.md-Screenshot .png")
+!![]("C:\Users\vivaa\OneDrive\Pictures\Screenshots\Screenshot 2024-02-06 234800.png")
 
 ## Installation:
-  clone,install depandencies,run npm init
+
+  To use the Professional README Generator App, run the following command in the terminal: node index.js Follow the prompts to enter information about your project, and a professionally formatted README will be generated.
 
   To clone the repo:
   
-      git clone test@test.com
+      git clone git clone https://github.com/Aijus2022/Professional-README-generator-app.git
   
 ---
 
@@ -74,14 +63,18 @@
 ---
 
 ## Tests:
-  none
+  Jest
 
 ---
 
 ## Authors and Acknowledgments
-  aija just
+  Aijamal Jusupova
 
 ---
+
+## Contact Information:
+* GitHub Username: Aijus2022
+* GitHub Email: Aijus@mail.ru
 
 ## Contact Information:
 * GitHub Username: aijus2022
