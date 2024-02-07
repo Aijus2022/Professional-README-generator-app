@@ -36,7 +36,8 @@ Author: Aijamal Jusupova (GitHub Profile)
 
 This project is licensed under the MIT License.
 ## Sample screenshots:
-![Screenshot 1]screenshots/Readmi.md-Screenshot .png
-![Screenshot 2](screenshots/Screenshot 2024-02-06 234731.png)
+![Screenshot 1](screenshots/Readmi.md-Screenshot.png)
+![Screenshot 2](screenshots/Screenshot_2024-02-06_234731.png)
+
 
 
