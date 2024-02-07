@@ -1,4 +1,4 @@
-# -README-generator-app
+# Professional-README-generator-app
 
   The Professional README Generator App is a command-line application that enables users to dynamically generate a professional README for a GitHub project. 
 
