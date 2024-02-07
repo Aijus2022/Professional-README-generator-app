@@ -75,8 +75,3 @@
 ## Contact Information:
 * GitHub Username: Aijus2022
 * GitHub Email: Aijus@mail.ru
-
-## Contact Information:
-* GitHub Username: aijus2022
-* GitHub Email: janedoe@email.com
-  
