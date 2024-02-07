@@ -28,8 +28,7 @@
 ## Visuals:
 
 ![](https://github.com/Aijus2022/Professional-README-generator-app/blob/ad18ab2ff908d68a5ac118a46c799400645897b6/screenshots/Readmi.md-Screenshot%20.png)
-!![]("C:\Users\vivaa\OneDrive\Pictures\Screenshots\Screenshot 2024-02-06 234800.png")
-
+!![](https://github.com/Aijus2022/Professional-README-generator-app/blob/5d59d08210316cb7687e1e85284db42a8825df99/screenshots/Screenshot%202024-02-06%20234731.png)
 ## Installation:
 
   To use the Professional README Generator App, run the following command in the terminal: node index.js Follow the prompts to enter information about your project, and a professionally formatted README will be generated.
