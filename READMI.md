@@ -1,8 +1,8 @@
-# Professional README Generator App
+# Readmi-2
 
 ## Description
 
-The Professional README Generator App is a command-line application that enables users to dynamically generate a professional README for a GitHub project. It prompts the user for information about the application repository and generates a high-quality README file.
+README Generator App
 
 ## Motivation
 
@@ -18,7 +18,7 @@ Simplifies the process of creating a README, ensuring it contains essential info
 
 ## Repository URL
 
-[https://github.com/Aijus2022/Professional-README-generator-app](https://github.com/Aijus2022/Professional-README-generator-app)
+[github.com/Aijus2022/Professional-README-generator-app](github.com/Aijus2022/Professional-README-generator-app)
 
 ## Screenshots
 
@@ -27,7 +27,7 @@ Simplifies the process of creating a README, ensuring it contains essential info
 
 ## Author
 
-- Name: Aijamal Jusupova
+- Name: Aijamal jusupova
 - GitHub: [Aijus2022](https://github.com/Aijus2022)
 
 ## License
@@ -37,11 +37,11 @@ MIT License
 
 ## Testing Instructions
 
- Report bugs or suggest new features by opening an issue on GitHub Submitting fixes or enhancements via pull requests Providing feedback and suggestions to improve the project Helping to improve documentation by fixing typos or adding missing information
+Jest
 
 ## Installation
 
-2. Navigate to the project folder: `cd Professional-README-generator-app`3. Install dependencies: `npm install`
+Navigate to the project folder: `cd Professional-README-generator-app`Install dependencies: `npm install`
 
 ## Usage
 
